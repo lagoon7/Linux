@@ -1,0 +1,3 @@
+This sub-project hosts all of the linux/BSD bash files needed for an initial linux setup.
+
+The world according to G...
